@@ -1,7 +1,7 @@
 {
-  "name": "express-rest-api-simple",
+  "name": "express-typescript-rest-api-simple",
   "version": "1.0.0",
-  "description": "Express Rest API Simple",
+  "description": "Express Typescript Rest API Simple",
   "main": "index.js",
   "author": "awank100 <mas.awank100@gmail.com>",
   "license": "MIT",
